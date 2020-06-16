@@ -1,0 +1,3 @@
+# Add a new file to your GitHub repository called "lab-3-client.yml” (or lab-3-client.properties). Add a key called "lucky-word" and a value of "Irish", "Rabbit's Foot", "Serendipity", or any other value of your choosing.
+---
+lucky-word: 'Irish'
